@@ -1,2 +1,4 @@
 # skillfactory_rds
-Репозиторий ссоздан для выполнения чебных проектов по курсу Data Scientist
+Репозиторий создан для выполнения учебных проектов по курсу Data Scientist
+
+The repository for doing training projects for the Data Scientist class
